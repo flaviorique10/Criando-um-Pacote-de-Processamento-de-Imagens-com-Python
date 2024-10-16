@@ -2,8 +2,7 @@
 
 Description. 
 The package package_name is used to:
-	- 
-	-
+	Projeto realizado pelo modulo Criando um Pacote de Processamento de Imagens com Python da Dio
 
 ## Installation
 
@@ -21,7 +20,7 @@ file1_name.my_function()
 ```
 
 ## Author
-My_name
+Flávio henrique 
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)# Criando-um-Pacote-de-Processamento-de-Imagens-com-Python
